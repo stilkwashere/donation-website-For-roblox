@@ -18,4 +18,4 @@ cant wait to see what you've ppl done
 
 here's and example
 
-http//:bftsc.tk
+https://bftsc.tk
